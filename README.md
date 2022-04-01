@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Computer Science and Technology at Uva Wellassa University.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Web Development.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
