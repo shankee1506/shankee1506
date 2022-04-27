@@ -14,7 +14,7 @@
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
-  👨🏻•💻 See My portfolio :- https://shankee-portfolio.netlify.app/
+
 
 
 
