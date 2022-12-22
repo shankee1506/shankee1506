@@ -4,7 +4,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
- ----- See My Portfolio : <a src="https://shankeerthan.netlify.app/">  </a>  -----
+ ----- See My Portfolio : https://shankeerthan.netlify.app/  -----
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
