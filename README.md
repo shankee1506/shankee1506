@@ -4,15 +4,16 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-
+ ----- See My Portfolio : <a src="https://shankeerthan.netlify.app/">  </a>  -----
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Technology at Uva Wellassa University.
+- 🎓 &nbsp; Studied Computer Science and Technology at Uva Wellassa University.
 
-- 🌱 &nbsp; Learning about Web Development.
+- 🌱 &nbsp; Web FullStack Developer.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
 
 
 
